@@ -1,0 +1,15 @@
+.container-fluid{
+    width: 100%;
+    display: flex;
+    flex-flow: row;
+    ;
+    justify-content: center;
+}
+
+
+
+
+
+#logoAP {
+    width: 10.9375rem;
+}

@@ -1,0 +1,41 @@
+.container {
+    margin: 0rem;
+}
+
+#parrafo1 {
+    padding-left: 3.125rem;
+    flex-direction: row;
+    justify-content: right;
+}
+
+div {
+    text-align: center;
+}
+
+#nombre {
+    font-weight: bold;
+    margin-top: 20%;
+
+}
+
+@media (min-width: 576px) {
+    #fotoperfil {
+        position: absolute;
+        width: 10%;
+        border-radius: 100%;
+        box-shadow: 0.1875rem 0.1875rem 0.1875rem grey;
+        left: 5%;
+        top: 28.125rem;
+    }
+}
+
+@media (max-width: 575px) {
+    #fotoperfil {
+        position: absolute top-20 start-20;
+        width: 20%;
+        border-radius: 100%;
+        box-shadow: 0.1875rem 0.1875rem 0.1875rem grey;
+        left: 40%;
+        top: 20rem;
+    }
+}

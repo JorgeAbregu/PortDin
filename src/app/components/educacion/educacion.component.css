@@ -1,0 +1,21 @@
+.row {
+    padding: 1.25rem;
+}
+h1{
+    text-align: center;
+}
+
+h2,h3 {
+    display: inline;
+
+}
+
+ul {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-left: 1.875rem;
+}
+li{
+    list-style: none;
+}

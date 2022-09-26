@@ -1,0 +1,26 @@
+
+.row {
+    padding: 1.25rem;
+}
+.containerP{
+    width: auto;
+}
+h1{
+    text-align: center;
+}
+.parte1, .parte2{
+    display: inline-block;
+    text-align: justify;
+}
+.img-proyecto{
+    margin-top: -5.4375rem;
+    box-shadow: 0.3125rem 0.3125rem 0.8125rem rgb(11, 11, 99);
+}
+#qr{
+    width: 25%;
+    height: 25%;
+}
+li{
+    list-style: none;
+}
+

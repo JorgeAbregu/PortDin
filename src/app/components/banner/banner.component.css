@@ -1,0 +1,6 @@
+#imagenFondo {
+    display: flex;
+    padding: 1.25rem;
+    width: 100%;
+    justify-content: center;
+}
